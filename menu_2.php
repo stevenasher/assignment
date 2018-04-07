@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Frameset</title>
+    <title>My Connection</title>
     <style type="text/css">
         body{
             font-family: Verdana, Arial, sans-serif;
@@ -24,9 +24,9 @@
 <body>
 <h3>Siblings</h3>
 <hr>
-<p><a href="brandon.html" target="content">Brandon Dwite Sugbo Cobacha</a></p>
-<p><a href="bairon.html" target="content">Bairon Brix Sugbo Cobacha</a></p>
-<p><a href="bryl.html" target="content">Bryl Niño Sugbo Cobacha</a></p>
-<p><a href="brixel.html" target="content">Brixel John Sugbo Cobacha</a></p>
+<p><a href="brandon.php" target="content">Brandon Dwite Sugbo Cobacha</a></p>
+<p><a href="bairon.php" target="content">Bairon Brix Sugbo Cobacha</a></p>
+<p><a href="bryl.php" target="content">Bryl Niño Sugbo Cobacha</a></p>
+<p><a href="brixel.php" target="content">Brixel John Sugbo Cobacha</a></p>
 </body>
 </html>
