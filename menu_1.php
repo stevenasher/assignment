@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Frameset</title>
+    <title>My Connection</title>
     <style type="text/css">
         body{
             font-family: Verdana, Arial, sans-serif;
@@ -24,7 +24,7 @@
 <body>
 <h3>Parents</h3>
 <hr>
-<p><a href="father.html" target="content">Manuel Lumpas Cobacha Jr.</a></p>
-<p><a href="mother.html" target="content">Josefina Sugbo Cobacha</a></p>
+<p><a href="father.php" target="content">Manuel Lumpas Cobacha Jr.</a></p>
+<p><a href="mother.php" target="content">Josefina Sugbo Cobacha</a></p>
 </body>
 </html>
