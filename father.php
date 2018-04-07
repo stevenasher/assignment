@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Frames - Content</title>
+    <title>My Connection</title>
     <style type="text/css">
         body{
             font-family: Verdana, Arial, sans-serif;
@@ -40,8 +40,8 @@
 </head>
 <body>
 	<p class="toplink">
-		<a href="home.html" target="content">Home</a> / 
-		<a href="home.html#parents" target="content">Parents</a> / Manuel Lumpas Cobacha Jr.
+		<a href="home.php" target="content">Home</a> / 
+		<a href="home.php#parents" target="content">Parents</a> / Manuel Lumpas Cobacha Jr.
 	</p>
     <h1>Manuel Lumpas Cobacha Jr.</h1>
 	<hr>
@@ -105,7 +105,7 @@
 		</tr>
 	</table>
     <p>
-        <a href="home.html" target="content">Back to home</a>
+        <a href="home.php" target="content">Back to home</a>
     </p>
 </body>
 </html>
