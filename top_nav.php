@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Frameset</title>
+    <title>My Connection</title>
     <style type="text/css">
         body{
             font-family: Verdana, Arial, sans-serif;
@@ -42,9 +42,9 @@
 			<tr>
 				<td>
 					<p>
-						<a href="menu_1.html" target="menu">Parents</a> |
-						<a href="menu_2.html" target="menu">Siblings</a> |
-						<a href="menu_3.html" target="menu">Others</a>
+						<a href="menu_1.php" target="menu">Parents</a> |
+						<a href="menu_2.php" target="menu">Siblings</a> |
+						<a href="menu_3.php" target="menu">Others</a>
 					</p>
 				</td>
 			</tr>
@@ -52,7 +52,5 @@
 		</td>
 	</tr>
 </table>
-
-
 </body>
 </html>
