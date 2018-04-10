@@ -30,7 +30,7 @@
 <table>
 	<tr>
 		<td>
-			<img src="http://static1.squarespace.com/static/508957eae4b0f50834dfa92f/t/57a202f4725e256f85ef8af1/1493834741326/" class="logo"/>
+			<img src="https://citychickbuzz.files.wordpress.com/2013/06/mc.png" class="logo"/>
 		</td>
 		<td>
 		<table>
