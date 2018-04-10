@@ -6,7 +6,7 @@
             font-family: Verdana, Arial, sans-serif;
             font-size: 10pt;
             margin: 10px;
-            background-color: #17202A;
+            background-color: black;
 			color: #CACFD2;
         }
 		
